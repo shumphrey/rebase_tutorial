@@ -11,7 +11,7 @@
     "serve": "node dist/server.js",
     "serve-debug": "nodemon --inspect dist/server.js",
     "watch-node": "nodemon dist/server.js",
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
