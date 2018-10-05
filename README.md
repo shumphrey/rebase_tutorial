@@ -3,4 +3,4 @@ A repo to demonstrate rebasing
 
 # ROUTES
 
-/ - The hom page
+/ - The home page
